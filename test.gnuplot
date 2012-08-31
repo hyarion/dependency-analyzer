@@ -1,3 +1,4 @@
+#!/usr/bin/env gnuplot
 set term png size 1280,768	#output terminal and file
 
 set key autotitle columnhead

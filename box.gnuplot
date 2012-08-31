@@ -1,3 +1,4 @@
+#!/usr/bin/env gnuplot
 
 set border 2 front linetype -1 linewidth 1.000
 set boxwidth 0.5 absolute
