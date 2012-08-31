@@ -1,4 +1,9 @@
 #! /usr/bin/env bash
+
+# Arguments:
+# 1. destination folder
+
+
 function forfile {
 	dest=$1
 	file=$2
